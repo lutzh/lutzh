@@ -1,4 +1,3 @@
-# Lutz Huehnken
 
 All my current online activity takes place at [www.reactivesystems.eu](https://www.reactivesystems.eu).
 
