@@ -3,7 +3,8 @@ My current online activity takes place at [www.reactivesystems.eu](https://www.r
 
 Please visit:
 
-* [My blog, aptly named “I have not thought this through”](https://www.reactivesystems.eu/blog/index.html)
+* [My blog](https://www.reactivesystems.eu/)
 * [An overview of talks and presentations](https://www.reactivesystems.eu/about/index.html)
 
-Occassionally I tweet (and, more often, retweet) interesting things about all aspects of software development. I suggest you follow me [on Twitter](https://twitter.com/lutzhuehnken) and/or [on Mastodon](https://social.tchncs.de/@lutzhuehnken).
+Occassionally I post (and, more often, repost) interesting things about all aspects of software development. I suggest you follow me [on Mastodon](https://mastodon.social/@lutzhuehnken) and/or on [LinkedIn](https://www.linkedin.com/in/lutzh) and/or [on Twitter](https://twitter.com/lutzhuehnken).
+
