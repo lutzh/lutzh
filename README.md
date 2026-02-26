@@ -1,14 +1,27 @@
 
 
-You'll find a Linktree-style overview of all my online presences at [www.huehnken.de](https://www.huehnken.de/).
+I help companies build and scale their technology organizations. With experience as Head of Engineering and Chief Architect across industries including fintech, e-commerce, logistics, and entertainment systems, I bring both strategic vision and hands-on expertise to complex technical challenges.
 
-Among them:
+#### Available for Engagement
 
-* [My blog](https://www.reactivesystems.eu/) on Software Architecture topics.
-* The [Awesome Event-Driven Architecture](https://codeberg.org/lutzh/awesome-event-driven-architecture#readme) list of EDA-related links.
-* The [Circles Game](https://www.huehnken.de/games/circles/index.html), a 2D Rubik's Cube I vibe coded.
+I offer fractional CTO services, interim leadership, consulting, and training on a contract basis. My areas of focus include:
 
-Occasionally I post interesting things about building and evolving software engineering organizations, crafting resilient and scalable distributed systems with event-driven architecture, and other aspects of software development. To get notified of updates, I suggest you follow me on 
+- Building, growing, and evolving software engineering organizations
+- Designing scalable, reliable, high-throughput backend systems
+- Event-driven architecture and domain-driven design
+
+#### Why Work With Me
+
+I operate at the intersection of architecture and organization, which means I can advance both your technical systems and the teams that build them. Whether you need someone to step into a leadership gap, reshape your architecture for scale, or coach your engineering organization through growth, I can help. Learn more about my offerings on my [business home page](https://www.huehnken.de/).
+
+*Other Places*
+
+
+* Read [my blog](https://www.reactivesystems.eu/) on Software Architecture topics.
+* I maintain the [Awesome Event-Driven Architecture](https://codeberg.org/lutzh/awesome-event-driven-architecture#readme) list of EDA-related links.
+*  I vibe coded the [Circles Game](https://www.huehnken.de/games/circles/index.html), a 2D Rubik's Cube.
+
+Please follow me on:
 
 * [Bluesky](https://bsky.app/profile/huehnken.de) and/or
 * [Mastodon](https://mastodon.social/@lutzhuehnken) and/or
