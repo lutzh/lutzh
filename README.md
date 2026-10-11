@@ -18,7 +18,7 @@ I operate at the intersection of architecture and organization, which means I ca
 
 
 * Read [my blog](https://www.reactivesystems.eu/) on Software Architecture topics.
-* I maintain the [Awesome Event-Driven Architecture](https://codeberg.org/lutzh/awesome-event-driven-architecture#readme) list of EDA-related links.
+* I maintain the [Awesome Event-Driven Architecture]([https://codeberg.org/lutzh/awesome-event-driven-architecture#readme](https://github.com/lutzh/awesome-event-driven-architecture#readme)) list of EDA-related links.
 *  I vibe coded the [Circles Game](https://www.huehnken.de/games/circles/index.html), a 2D Rubik's Cube.
 
 Please follow me on:
