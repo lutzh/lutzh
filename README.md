@@ -27,5 +27,4 @@ Please follow me on:
 * [Mastodon](https://mastodon.social/@lutzhuehnken) and/or
 * [LinkedIn](https://www.linkedin.com/in/lutzh).
 
-If you're looking for a specific repository and can no longer find it here, it maybe moved to [Codeberg](https://codeberg.org/lutzh), a community-driven, non-profit alternative to Github that I like to use.
 
